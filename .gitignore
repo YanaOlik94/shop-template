@@ -1,0 +1,11 @@
+temp/
+*.bat
+
+# IntellijIdea files
+.idea/
+.DS_Store
+/.angular/cache
+
+# Node artifact files
+node_modules/
+dist/
