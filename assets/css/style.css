@@ -5860,6 +5860,12 @@ a.close.disabled {
 
   content: "";
 }
+.carousel-slide {
+  position: absolute;
+  width: 25%;
+  top: 19%;
+  left: 37%;
+}
 
 .carousel-item {
   position: relative;
